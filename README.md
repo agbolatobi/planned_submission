@@ -26,3 +26,12 @@ As a first iteration for this solution, we want to build a web application that 
 ### Inspiration mockup
 
 ![Memory lane mockup](./memory_lane.png)
+
+
+### ScreenShots
+
+![Screenshot 1 mockup](./screenshots/Screenshot%202025-03-18%20at%2012.32.39%20AM.png)
+![Screenshot 2 mockup](./screenshots/Screenshot%202025-03-18%20at%2012.31.20%20AM.png)
+![Screenshot 3 mockup](./screenshots/Screenshot%202025-03-18%20at%2012.30.16%20AM.png)
+![Screenshot 4 mockup](./screenshots/Screenshot%202025-03-18%20at%2012.29.36%20AM.png)
+![Screenshot 5 mockup](./screenshots/Screenshot%202025-03-18%20at%2012.26.55%20AM.png)
